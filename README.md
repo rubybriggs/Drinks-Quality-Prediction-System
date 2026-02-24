@@ -44,3 +44,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+
+
+## 592444418608.dkr.ecr.us-east-1.amazonaws.com/drinkquality
